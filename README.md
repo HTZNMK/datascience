@@ -1,2 +1,2 @@
 # datascience
-Test Project from IBM Data Science course
+Test Project from IBM Data Science course.
